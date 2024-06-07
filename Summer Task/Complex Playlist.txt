@@ -1,0 +1,9 @@
+original.bin 2 1.0
+original.bin 1.3
+original.bin 1.0
+4 2 0.5
+original.bin 1.0
+4 2 0.5
+original.bin 1.0
+4 2 0.5
+original.bin 2.0
